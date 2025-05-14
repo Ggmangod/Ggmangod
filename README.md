@@ -31,8 +31,3 @@ I specialize in building modern, high-performance mobile and web applications us
 
 ## ✍️ Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ggmangod&theme=radical)  
