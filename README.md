@@ -10,7 +10,7 @@ I specialize in building modern, high-performance mobile and web applications us
 ---
 
 ## 🌐 Connect with Me  
-- [Discord](https://discord.com/513937097694904321)
+- [Discord](ggmangod_io)
 - 📫 [Email](mailto:gamercatgogo@gmail.com)  
 
 ---
